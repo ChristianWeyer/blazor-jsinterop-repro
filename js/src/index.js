@@ -1,1 +1,2 @@
-import moment from 'moment'; export {moment};
+import moment from 'moment';
+export {moment};
